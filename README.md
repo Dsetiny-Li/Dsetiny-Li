@@ -2,7 +2,6 @@
 - 👀 I’m interested in Google promotion service
 - 🌱 I’m currently learning how to better serve the foreign trade business of enterprises and individuals
 - 💞️ I’m looking to collaborate on foreign reade business
-- 📫 How to reach me ...
 
 <!---
 Dsetiny-Li/Dsetiny-Li is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
